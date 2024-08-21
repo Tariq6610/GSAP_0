@@ -41,7 +41,8 @@ tl.from("#img4",{
 })
 
 tl.from("h1",{
-    x: -1000
+    x: -1000,
+    opacity:0
 })
 
 tl.to("#img1",{
