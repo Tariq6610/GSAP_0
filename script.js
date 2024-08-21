@@ -19,19 +19,16 @@ tl.from("#img1",{
     y: 90,
     x: 350,
     opacity:0,
-    // duration: 0.5
 })
 tl.from("#img2",{
     y: 90,
     x: -350,
     opacity:0,
-    // duration: 0.5
 })
 tl.from("#img3",{
     y: 90,
     x: 350,
     opacity:0,
-    // duration: 0.5
 })
 tl.from("#img4",{
     y: 90,
